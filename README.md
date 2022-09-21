@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🎓 Computer Science at University of Waterloo
+- 📬 Feel free to connect with me on [Linkedin!](https://www.linkedin.com/in/tahazaryab/)
 
 <!--
 **tahazaryab/tahazaryab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
