@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🎓 Computer Science at University of Waterloo
+- 🎓 Computer Science @ University of Waterloo
 - 📬 Feel free to connect with me on [Linkedin!](https://www.linkedin.com/in/tahazaryab/)
 
 <!--
